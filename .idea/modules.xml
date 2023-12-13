@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gita Homeworks.iml" filepath="$PROJECT_DIR$/Gita Homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gita-Homeworks.iml" filepath="$PROJECT_DIR$/.idea/Gita-Homeworks.iml" />
     </modules>
   </component>
 </project>
